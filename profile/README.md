@@ -148,7 +148,7 @@ We're working on bringing **exclusive Patchwork OSS community merchandise** to o
 
 <br>
 
-<img src="./assets/tshirt.png" width="300" alt="Patchwork OSS T-Shirt">
+<img src="./assets/tshirt.png" width="200" alt="Patchwork OSS T-Shirt">
 
 <br>
 
