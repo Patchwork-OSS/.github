@@ -148,15 +148,15 @@ We're working on bringing **exclusive Patchwork OSS community merchandise** to o
 
 <br>
 
-<img src="./assets/tshirt.png" width="200" alt="Patchwork OSS T-Shirt">
+<img src="./assets/tshirt.png" width="200" alt="Patchwork OSS T-Shirt">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/hoddie.png" width="200" alt="Patchwork OSS Hoodie">
 
 <br>
 
 | 🎁 Planned Goodies | Points Required | Status |
 |---|---|---|
 | Patchwork OSS T-Shirt | 3,000 Points | 🔜 Coming Soon |
+| Patchwork OSS Hoodie | 5,000 Points | 🔜 Coming Soon |
 | Sticker Packs | TBD | 🔜 Coming Soon |
-| Hoodies | TBD | 🔜 Coming Soon |
 | Goodie Kits | TBD | 🔜 Coming Soon |
 | Community Merchandise | TBD | 🔜 Coming Soon |
 
