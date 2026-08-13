@@ -148,18 +148,17 @@ We're working on bringing **exclusive Patchwork OSS community merchandise** to o
 
 <br>
 
-<!-- Replace the path below with the actual hosted image URL once uploaded -->
-![Patchwork OSS Community Goodies — Coming Soon](goodies-preview.png)
+<img src="./assets/tshirt.png" width="300" alt="Patchwork OSS T-Shirt">
 
 <br>
 
-| 🎁 Planned Goodies | Status |
-|---|---|
-| Patchwork OSS T-Shirts | 🔜 Coming Soon |
-| Sticker Packs | 🔜 Coming Soon |
-| Hoodies | 🔜 Coming Soon |
-| Goodie Kits | 🔜 Coming Soon |
-| Community Merchandise | 🔜 Coming Soon |
+| 🎁 Planned Goodies | Points Required | Status |
+|---|---|---|
+| Patchwork OSS T-Shirt | 3,000 Points | 🔜 Coming Soon |
+| Sticker Packs | TBD | 🔜 Coming Soon |
+| Hoodies | TBD | 🔜 Coming Soon |
+| Goodie Kits | TBD | 🔜 Coming Soon |
+| Community Merchandise | TBD | 🔜 Coming Soon |
 
 </div>
 
