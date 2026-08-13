@@ -1,6 +1,7 @@
 <div align="center">
+<img src="./assets/logo.png" width="150" alt="Patchwork OSS Logo">
 
-# 🧵 Patchwork OSS
+# Patchwork OSS
 
 **Every patch counts. Every contributor matters.**
 
