@@ -111,6 +111,62 @@ We're transparent about where we are and where we're going. No vaporware. No pro
 
 ---
 
+## Contributor Credits
+
+Every meaningful, verified contribution earns you **Contributor Credits** — the recognition currency of Patchwork OSS.
+
+Credits are awarded for real work that makes a real impact:
+
+| Contribution Type | Eligible? |
+|---|---|
+| 🔧 Meaningful merged pull requests | ✅ |
+| 🐛 Bug fixes | ✅ |
+| ✨ Feature contributions | ✅ |
+| 📝 Documentation improvements | ✅ |
+| 🧪 Tests and test coverage | ✅ |
+| 🔍 Accepted issue discoveries | ✅ |
+| 🌐 Translations (for projects supporting i18n) | ✅ |
+| ❌ Trivial typo-only PRs | Not eligible |
+| ❌ Automated dependency bumps | Not eligible |
+| ❌ Self-merged or unverified PRs | Not eligible |
+
+The guiding rule is simple: **if it's meaningful and verified, it counts.** If it's low-effort noise, it doesn't.
+
+> [!NOTE]
+> The exact credit values and progression tiers are currently being finalized. We're designing a system that rewards depth and quality — not one that incentivizes PR spam. Details will be published here once ready.
+
+Credits will tie into your badges, leaderboard position, and future community rewards as the system matures.
+
+---
+
+## Community Goodies — *Coming Soon*
+
+<div align="center">
+
+We're working on bringing **exclusive Patchwork OSS community merchandise** to our most dedicated contributors.
+
+<br>
+
+<!-- Replace the path below with the actual hosted image URL once uploaded -->
+![Patchwork OSS Community Goodies — Coming Soon](goodies-preview.png)
+
+<br>
+
+| 🎁 Planned Goodies | Status |
+|---|---|
+| Patchwork OSS T-Shirts | 🔜 Coming Soon |
+| Sticker Packs | 🔜 Coming Soon |
+| Hoodies | 🔜 Coming Soon |
+| Goodie Kits | 🔜 Coming Soon |
+| Community Merchandise | 🔜 Coming Soon |
+
+</div>
+
+> [!IMPORTANT]
+> Physical rewards will only be announced when we can sustainably deliver them. We will never promise what we can't fulfill. When goodies become available, redemption details and eligibility will be published here.
+
+---
+
 ## Get Involved
 
 ### As a Contributor
